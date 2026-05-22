@@ -14,6 +14,6 @@ The Fullstack Developer Path aims to teach you everything you need to become a J
 
 - [Our courses](https://scrimba.com/courses)
 - [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- [Priview]([https://scrimba.com/pricing](https://falalurahimankt.github.io/Scrimba/hometown/))
 
 Happy Coding!
