@@ -1,0 +1,83 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+   
+    text-align: center;
+    border: 5px solid black;
+}
+
+.hero {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Audiowide", sans-serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 20px black;    
+    color: rgb(255, 255, 255);
+    background-image: url("https://imgs.search.brave.com/tXq06V6mDWq8PnnQ7ka0zvD1MR3FV-xJwcYXX0M6jPo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2MxL0tvdHRha2th/bF90b3duLmpwZw");
+    background-size: cover;
+    background-position: bottom;
+    padding-bottom: 40px;
+}
+.content {
+    padding-top: 20px;
+    background:linear-gradient(#f7826e,#f7d6b5);
+    background-size: cover;
+    padding: 50px 0px 50px 0px;
+}
+
+.activity {
+    padding: 50px 0px 50px 0px;
+    font-size: 30px;
+    align-items: center;
+    justify-content: space-around;
+    font-family: "Fruktur", system-ui;
+   
+}
+#activity-heading {
+    color: #540b0e;
+    text-shadow: 0px 0px 1px black;
+}
+
+.activity-img {
+
+    border-radius: 200px ;
+    border: 3px solid black;
+    width: 150px;
+    height: 150px;
+}
+
+
+img {
+    width: 100px;
+}
+.guide {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #adb5bd;
+    background-size: cover; 
+    border-bottom: 10px solid #212529;
+
+
+}
+#guide-img {
+            border: 3px solid black;
+            border-radius: 5px;
+}
